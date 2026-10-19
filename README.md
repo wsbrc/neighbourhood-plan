@@ -9,3 +9,8 @@ This repository summarises public data for a selected Parish Council and outputs
 4.  export_html : Exports html document specific to selected Parish Council
 
 Run notebook 1 and 2 first to prepare data. 
+
+## Json files
+The json files contain information about the data to be imported. These need to be updated if the datasets have changed. 
+1. file_info.json : Original json which takes complete datasets from original filepath. Not currently used but retained for future. 
+2. file_info_gdb.json [default] : Updated json which takes data from neighbourhood plan geodatabase, where datasets have been clipped to Wilts. 
