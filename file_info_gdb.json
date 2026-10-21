@@ -8,7 +8,6 @@
         "groupColumnValue": false,
         "unit": "Ha",
         "unit_type": "AREA",
-        "area_col_name": "AREA",
         "about":"Landscape Character Areas represent an area of distinct and recognisable character at the national scale. Their boundaries follow natural lines in the landscape, not county or district boundaries. This makes them a good framework for decision-making and planning for future change. ",
         "layer_name":"LCA_County"
     },
@@ -21,7 +20,6 @@
         "groupColumnValue": false,
         "unit": "Ha",
         "unit_type": "AREA",
-        "area_col_name": "AREA",
         "about":"test",
         "layer_name":"Bedrock"
     },
@@ -34,7 +32,6 @@
         "groupColumnValue": false,
         "unit": "Metres",
         "unit_type": "LENGTH",
-        "area_col_name": "LENGTH",
         "layer_name":"Faultlines"
     },
     "Flood Warning Areas": {
@@ -46,7 +43,6 @@
         "groupColumnValue": false,
         "unit": "Ha",
         "unit_type": "AREA",
-        "area_col_name": "AREA",
         "layer_name":"EA_flood_warning_areas"
     },
     "Kennet and Avon Canals Planning Buffer": {
@@ -58,7 +54,6 @@
         "groupColumnValue": false,
         "unit": "Ha",
         "unit_type": "AREA",
-        "area_col_name": "AREA",
         "layer_name":"CRT_Kenned_Avon_canal_planning_zone"
     },
     "Main Rivers": {
@@ -70,7 +65,6 @@
         "groupColumnValue": false,
         "unit": "Metres",
         "unit_type": "LENGTH",
-        "area_col_name": "LENGTH",
         "layer_name":"EA_statutory_main_rivers"
     },
     "Water Framework Directive River, Canal, and Surface Water Transfer Water Bodies": {
@@ -82,7 +76,6 @@
         "groupColumnValue": false,
         "unit": "Metres",
         "unit_type": "LENGTH",
-        "area_col_name": "LENGTH",
         "layer_name":"EA_WFD_River_canal_waterbody"
     },
     "National Forest Inventory": {
@@ -94,7 +87,6 @@
         "groupColumnValue": false,
         "unit": "Ha",
         "unit_type": "AREA",
-        "area_col_name": "AREA",
         "layer_name":"National_Forest_inventory"
     },
     "Greenspace": {
@@ -117,7 +109,6 @@
         "groupColumnValue": false,
         "unit": "Ha",
         "unit_type": "AREA",
-        "area_col_name": "AREA",
         "layer_name":"NE_priority_habitat_inventory"
     },
     "WSBRC Priority Habitats": {
@@ -129,7 +120,6 @@
         "groupColumnValue": false,
         "unit": "Ha",
         "unit_type": "AREA",
-        "area_col_name": "AREA",
         "layer_name":"WSBRC_priority_habitats"
     },
     "Chalk Streams": {
@@ -141,7 +131,6 @@
         "groupColumnValue": false,
         "unit": "Metres",
         "unit_type": "LENGTH",
-        "area_col_name": "LENGTH",
         "layer_name":"Chalk_Rivers"
     },
     "Ancient Woodland Inventory": {
@@ -153,7 +142,6 @@
         "groupColumnValue": false,
         "unit": "Ha",
         "unit_type": "AREA",
-        "area_col_name": "AREA",
         "layer_name":"Ancient_woodland"
     },
     "Landscape Biodiversity Areas": {
@@ -165,7 +153,6 @@
         "groupColumnValue": false,
         "unit": "Ha",
         "unit_type": "AREA",
-        "area_col_name": "AREA",
         "layer_name":"BAP_landscape_biodiversity_areas"
     },
     "National Cycle Network Route": {
@@ -221,7 +208,6 @@
         "groupColumnValue": false,
         "unit": "Ha",
         "unit_type": "AREA",
-        "area_col_name": "AREA",
         "layer_name":"NE_Country_parks"
     },
     "WWT reserves": {
@@ -233,7 +219,6 @@
         "groupColumnValue": false,
         "unit": "HECTARES",
         "unit_type": "AREA",
-        "area_col_name": "AREA",
         "layer_name":"WWT_reserves"
     },
     "Priority Rivers": {
@@ -245,7 +230,6 @@
         "groupColumnValue": false,
         "unit": "Metres",
         "unit_type": "LENGTH",
-        "area_col_name": "LENGTH",
         "layer_name":"Priority_river_habitat"
     },
     "Sites of Special Scientific Interest": {
@@ -406,7 +390,6 @@
         "groupColumnValue": false,
         "unit": "Ha",
         "unit_type": "AREA",
-        "area_col_name": "AREA",
         "layer_name":"Environmental_stewardship_Scheme_agreements"
     },
     "Countryside Stewardship Scheme":{
@@ -418,7 +401,6 @@
         "groupColumnValue": false,
         "unit": "Ha",
         "unit_type": "AREA",
-        "area_col_name": "AREA",
         "layer_name":"Countryside_stewardship_scheme_2016_management_options"
     },
     "Agricultural Land Classification":{
@@ -430,7 +412,6 @@
         "groupColumnValue": false,
         "unit": "Ha",
         "unit_type": "AREA",
-        "area_col_name": "AREA",
         "layer_name":"Agri_Land_Classification"
     },
      "Forestry Commission":{
@@ -442,7 +423,6 @@
         "groupColumnValue": false,
         "unit": "Ha",
         "unit_type": "AREA",
-        "area_col_name": "AREA",
         "layer_name":"Forestry_commission_legal_boundaries"
     },
     "Protected Roadside Verges":{
@@ -454,7 +434,6 @@
         "groupColumnValue": false,
         "unit": "Ha",
         "unit_type": "AREA",
-        "area_col_name": "AREA",
         "layer_name":"WC_protected_roadside_verges"
     },
     "County Wildlife Sites":{
@@ -466,7 +445,6 @@
         "groupColumnValue": false,
         "unit": "Ha",
         "unit_type": "AREA",
-        "area_col_name": "AREA",
         "layer_name":"County_Wildlife_sites"
     },
     "National Nature Reserves":{
@@ -478,7 +456,6 @@
         "groupColumnValue": false,
         "unit": "Ha",
         "unit_type": "AREA",
-        "area_col_name": "AREA",
         "layer_name":"National_Nature_reserve"
     },
     "Local Nature Reserves":{
@@ -490,7 +467,41 @@
         "groupColumnValue": false,
         "unit": "Ha",
         "unit_type": "AREA",
-        "area_col_name": "AREA",
         "layer_name":"Local_nature_reserve"
+    },
+    "Buildings":{
+        "file_name": "",
+        "source": "Ordnance Survey",
+        "group": "Urban",
+        "group_field": false,
+        "groupColumnName": "Total",
+        "groupColumnValue": false,
+        "unit": "Ha",
+        "unit_type": "AREA",
+        "layer_name":"Buildings"
+    },
+    "Car Charging Points":{
+        "file_name": "",
+        "source": "Ordnance Survey",
+        "group": "Urban",
+        "group_field": false,
+        "groupColumnName": "Total",
+        "groupColumnValue": false,
+        "unit": "Count",
+        "unit_type": "Count",
+        "count_col_name": "ID",
+        "layer_name":"Car_charging_point"
+    },
+    "Roads":{
+        "file_name": "",
+        "source": "Ordnance Survey",
+        "group": "Urban",
+        "group_field": "road_function",
+        "groupColumnName": "Road Type",
+        "groupColumnValue": false,
+        "unit": "Metres",
+        "unit_type": "LENGTH",
+        "layer_name":"OS_open_roads__Roads"
     }
+    
 }
